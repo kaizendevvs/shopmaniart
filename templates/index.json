@@ -27,6 +27,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banner-maniart.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -45,13 +46,11 @@
         "1264ec74-2c5d-4b67-8b7e-73ec484fd5ed": {
           "type": "images",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kai-pilger-7YwWjgS7aJs-unsplash.jpg"
           }
         },
         "e07eaf16-7469-4ff7-a42a-b3acce270d06": {
           "type": "images",
           "settings": {
-            "image": "shopify:\/\/shop_images\/david-dvoracek-12P0_rzSNpM-unsplash.jpg"
           }
         }
       },
@@ -212,6 +211,15 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
+    },
+    "image_carousel_xr7eqj": {
+      "type": "image-carousel",
+      "settings": {
+        "title": "",
+        "button_text": "",
+        "button_link": "",
+        "duration": 6000
+      }
     }
   },
   "order": [
@@ -221,6 +229,7 @@
     "featured_products",
     "collage",
     "video",
-    "multi_column"
+    "multi_column",
+    "image_carousel_xr7eqj"
   ]
 }
