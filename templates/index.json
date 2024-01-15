@@ -40,31 +40,6 @@
         "show_text_below": true
       }
     },
-    "1641301196c0c248f5": {
-      "type": "image-carousel",
-      "blocks": {
-        "1264ec74-2c5d-4b67-8b7e-73ec484fd5ed": {
-          "type": "images",
-          "settings": {
-          }
-        },
-        "e07eaf16-7469-4ff7-a42a-b3acce270d06": {
-          "type": "images",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1264ec74-2c5d-4b67-8b7e-73ec484fd5ed",
-        "e07eaf16-7469-4ff7-a42a-b3acce270d06"
-      ],
-      "settings": {
-        "title": "Image Carousel Title",
-        "button_text": "Goto Collection",
-        "button_link": "shopify:\/\/collections",
-        "duration": 6000
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -224,7 +199,6 @@
   },
   "order": [
     "image_banner",
-    "1641301196c0c248f5",
     "rich_text",
     "featured_products",
     "collage",
